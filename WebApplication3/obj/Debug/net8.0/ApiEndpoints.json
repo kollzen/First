@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "WebApplication3.PriceController",
+    "Method": "GetPrice",
+    "RelativePath": "api/Price/get-price",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "url",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApplication3.SubscriptionsController",
+    "Method": "GetCurrentPrices",
+    "RelativePath": "api/Subscriptions/GetCurrentPrices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication3.SubscriptionsController",
+    "Method": "Subscribe",
+    "RelativePath": "api/Subscriptions/subscribe",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subscription",
+        "Type": "WebApplication3.Subscription",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

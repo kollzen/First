@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\zad\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{665A132E-EEAA-4AE5-B0A4-F58B2F7E1F4E}|WebApplication3\\WebApplication3.csproj|e:\\zad\\webapplication3\\webapplication3\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A132E-EEAA-4AE5-B0A4-F58B2F7E1F4E}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A132E-EEAA-4AE5-B0A4-F58B2F7E1F4E}|WebApplication3\\WebApplication3.csproj|e:\\zad\\webapplication3\\webapplication3\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A132E-EEAA-4AE5-B0A4-F58B2F7E1F4E}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A132E-EEAA-4AE5-B0A4-F58B2F7E1F4E}|WebApplication3\\WebApplication3.csproj|e:\\zad\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A132E-EEAA-4AE5-B0A4-F58B2F7E1F4E}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A132E-EEAA-4AE5-B0A4-F58B2F7E1F4E}|WebApplication3\\WebApplication3.csproj|e:\\zad\\webapplication3\\webapplication3\\subscriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A132E-EEAA-4AE5-B0A4-F58B2F7E1F4E}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\subscriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A132E-EEAA-4AE5-B0A4-F58B2F7E1F4E}|WebApplication3\\WebApplication3.csproj|e:\\zad\\webapplication3\\webapplication3\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A132E-EEAA-4AE5-B0A4-F58B2F7E1F4E}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A132E-EEAA-4AE5-B0A4-F58B2F7E1F4E}|WebApplication3\\WebApplication3.csproj|e:\\zad\\webapplication3\\webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{665A132E-EEAA-4AE5-B0A4-F58B2F7E1F4E}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A132E-EEAA-4AE5-B0A4-F58B2F7E1F4E}|WebApplication3\\WebApplication3.csproj|e:\\zad\\webapplication3\\webapplication3\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A132E-EEAA-4AE5-B0A4-F58B2F7E1F4E}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApplication3.csproj",
+              "DocumentMoniker": "E:\\zad\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeDocumentMoniker": "WebApplication3\\WebApplication3.csproj",
+              "ToolTip": "E:\\zad\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeToolTip": "WebApplication3\\WebApplication3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T19:20:43.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PriceController.cs",
+              "DocumentMoniker": "E:\\zad\\WebApplication3\\WebApplication3\\PriceController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\PriceController.cs",
+              "ToolTip": "E:\\zad\\WebApplication3\\WebApplication3\\PriceController.cs",
+              "RelativeToolTip": "WebApplication3\\PriceController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:19:14.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubscriptionsController.cs",
+              "DocumentMoniker": "E:\\zad\\WebApplication3\\WebApplication3\\SubscriptionsController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\SubscriptionsController.cs",
+              "ToolTip": "E:\\zad\\WebApplication3\\WebApplication3\\SubscriptionsController.cs",
+              "RelativeToolTip": "WebApplication3\\SubscriptionsController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwDcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:55:35.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\zad\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "E:\\zad\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:02:20.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\zad\\WebApplication3\\WebApplication3\\Startup.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Startup.cs",
+              "ToolTip": "E:\\zad\\WebApplication3\\WebApplication3\\Startup.cs",
+              "RelativeToolTip": "WebApplication3\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:58:03.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext .cs",
+              "DocumentMoniker": "E:\\zad\\WebApplication3\\WebApplication3\\AppDbContext .cs",
+              "RelativeDocumentMoniker": "WebApplication3\\AppDbContext .cs",
+              "ToolTip": "E:\\zad\\WebApplication3\\WebApplication3\\AppDbContext .cs",
+              "RelativeToolTip": "WebApplication3\\AppDbContext .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:54:55.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "E:\\zad\\WebApplication3\\WebApplication3\\Subscription.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Subscription.cs",
+              "ToolTip": "E:\\zad\\WebApplication3\\WebApplication3\\Subscription.cs",
+              "RelativeToolTip": "WebApplication3\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:54:30.91Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
